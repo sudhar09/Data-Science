@@ -1,1 +1,1 @@
-# Data-Science
+# Hands on Machine Learning Algorithms
